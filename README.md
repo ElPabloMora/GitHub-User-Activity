@@ -1,4 +1,4 @@
-In this command line interface we can search for the latest Github user activities.. This solution is based on the page [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+In this command line interface we can search for the latest Github user activities.. This solution is based on the page [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 
 # How to use :
 ```python
